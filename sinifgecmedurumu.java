@@ -27,5 +27,8 @@ public class sinifgecmedurumu {
 
         double ortalama=(mat + fiz+ tur+ kim+muz)/5;
         System.out.println("ortalamanız :"+ortalama);
+           if (ortalama<55) {
+            System.out.println("kaldınız");
+        } else System.out.println("geçtiniz");
     }
 }
