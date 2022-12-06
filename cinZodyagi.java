@@ -6,7 +6,6 @@ public class cinZodyagi {
         System.out.println("doğum yılını gir");
         int yil= inp.nextInt();
         yil %=12;
-        System.out.println(yil);
         System.out.println("çin zodyağı burcunuz :"+cinZodyagi[yil]);
     }
 }
