@@ -9,7 +9,6 @@ public class usluSayi {
         int us=1;
         for(int i = 1;i<=b;i++){
             us*=a;
-            System.out.println(us);
         }
         System.out.println(us);
 
