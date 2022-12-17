@@ -4,7 +4,6 @@ public class ucDortBolunen {
         Scanner scanner = new Scanner(System.in);
         int a, tpl=0;
         int sayac=0;
-        int ort;
 
         System.out.print("sayı giriniz");
         a = scanner.nextInt();
